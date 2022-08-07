@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(182, 204, 227);
+}
+.hero{
+    margin-top:4%;
+    background-image: url('../images/heroclothing.png') ;
+}
+.herotext{background-color: aliceblue;}
+
+.potext{
+    margin-top: 1%;
+    margin-left: 1%;
+    margin-right: 1%
+    padding:0%;
+}
+.featurette-heading { 
+    margin-left:10%;
+}
+.featurette{
+    margin-top:2%;
+}
+.featurette-image{
+    margin-top:0%;
+}
+.rounded {
+    margin-bottom:2%;
+}
+.proto{
+    margin:3%;
+}
+.companal{
+    margin:2%;
+}
+.companaltitle {margin-bottom: 2%;}
+.jumbotext{
+    margin: 2%;
+} 
+    
